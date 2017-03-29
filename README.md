@@ -1,2 +1,3 @@
-# example-go-glide
-An example go project to demonstrate SourceClear scans.
+# [:] Example Glide Project
+
+An example glide project to demonstrate [SourceClear](https://www.sourceclear.com) scans.
