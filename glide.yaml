@@ -1,4 +1,4 @@
-package: github.com/hendychua/introtogo_glide
+package: github.com/srcclr/introtogo_glide
 import:
 - package: github.com/google/go-github
   subpackages:
