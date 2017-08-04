@@ -1,4 +1,4 @@
-# [:] Example GO project using Glide.
+# [:] Example Go project using Glide.
 
 An example Go project using Glide package manager to demonstrate [SourceClear](https://www.sourceclear.com) scans.
 
