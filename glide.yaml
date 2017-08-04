@@ -8,3 +8,5 @@ import:
   - query
 - package: github.com/simeji/jid
   version: 0.7.1
+- package: github.com/square/go-jose
+  version: 7f0dd807d3f3d73bb536898cb7980ddf638ce69a

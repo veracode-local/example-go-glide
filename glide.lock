@@ -1,5 +1,5 @@
-hash: 1c03704033607805370ff8ee5ce3423249ec3a3c3715f1786fac0b593939d0bb
-updated: 2017-03-29T11:01:03.481936431+08:00
+hash: d0963da8e4a50602dec286b31e6074989d4c76d7529f347ffd7e7d46f0d35cc4
+updated: 2017-08-04T11:45:08.924167131+08:00
 imports:
 - name: github.com/bitly/go-simplejson
   version: aabad6e819789e569bd6aabf444c935aa9ba1e44
@@ -27,6 +27,11 @@ imports:
   version: 248dadf4e9068a0b3e79f02ed0a610d935de5302
 - name: github.com/simeji/jid
   version: 1fe54ef34a09fab74f38ae40dcca6e1f0974d297
+- name: github.com/square/go-jose
+  version: 7f0dd807d3f3d73bb536898cb7980ddf638ce69a
+  subpackages:
+  - cipher
+  - json
 - name: golang.org/x/sys
   version: d75a52659825e75fff6158388dddc6a5b04f9ba5
   subpackages:
